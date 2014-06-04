@@ -12,3 +12,8 @@ Todo:
 
 Refactor 
 Unit tests (Unfortuanatle I have hacked it without using TDD)
+
+Test it under:
+
+https://raw.githack.com/LechnerMartin/HeisigTranslator/master/HeisigTranslator.html
+
